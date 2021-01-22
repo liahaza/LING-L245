@@ -1,4 +1,4 @@
-`LING L-245`: Language and Computers
+ `LING L-245`: Language and Computers
 
-`Julia Haza
+`Julia R Haza
 `
