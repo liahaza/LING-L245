@@ -1,3 +1,4 @@
-# `LING L-245`: Language and Computers
+`LING L-245`: Language and Computers
 
-`YOUR NAME HERE`
+`Julia Haza
+`
